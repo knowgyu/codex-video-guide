@@ -9,6 +9,7 @@ Windows에서 Codex를 이용해 영상 제작 환경을 준비하고, HyperFram
 ## 파일
 
 - `index.html`: 안내 페이지와 요청문
+- `seminar/`: 영상에 나온 코드와 제작 과정을 설명하는 심화 교안
 - `assets/video.mp4`: 안내 영상 (약 67MB)
 - `assets/poster.jpg`: 영상에서 추출한 포스터
 - `assets/Pretendard-Bold.otf`: Pretendard 글꼴. 사용 조건은 `assets/Pretendard-OFL.txt`를 확인하세요.
